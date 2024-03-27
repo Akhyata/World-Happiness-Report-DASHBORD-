@@ -1,8 +1,8 @@
 ![image](https://github.com/Akhyata/World-Happiness-Report-DASHBORD-/assets/143725909/2831559e-c520-45bd-bb5e-4617d50f4a6a)
 
 ## Overview:
-. Explore global happiness trends effortlessly. Dive into country-specific scores, track historical trends, and analyze key factors influencing well-being. The intuitive interface ensures a seamless experience. Contribute and uncover the secrets behind global happiness rankings.
-. This interactive dashboard presents insightful visualizations based on the World Happiness Report, offering a comprehensive overview of global happiness trends. Utilizing data from the annual World Happiness Report, the dashboard provides users with an intuitive interface to explore key indicators influencing happiness across various countries.
+Explore global happiness trends effortlessly. Dive into country-specific scores, track historical trends, and analyze key factors influencing well-being. The intuitive interface ensures a seamless experience. Contribute and uncover the secrets behind global happiness rankings.
+This interactive dashboard presents insightful visualizations based on the World Happiness Report, offering a comprehensive overview of global happiness trends. Utilizing data from the annual World Happiness Report, the dashboard provides users with an intuitive interface to explore key indicators influencing happiness across various countries.
 
 ## Features:
 
@@ -17,6 +17,7 @@
 5. User-Friendly Interface: Intuitive design for easy navigation and a seamless user experience.
 
 ## Dashboard:
-![image](https://github.com/Akhyata/World-Happiness-Report-DASHBORD-/assets/143725909/2cc4e2e8-574d-43d4-bfda-68408c94e728)
+![image](https://github.com/Akhyata/World-Happiness-Report-DASHBORD-/assets/143725909/66a16b2c-2be8-41fa-8a02-7e780f21f70d)
+
 
 
